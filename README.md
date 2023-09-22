@@ -1,1 +1,1 @@
-# rust-soundboard
+# Rust Soundboard
